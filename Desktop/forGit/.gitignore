@@ -1,9 +1,0 @@
-# Node modules
-node_modules/
-
-# Log files
-*.log
-
-# OS specific files
-.DS_Store
-Thumbs.db
